@@ -1,5 +1,4 @@
 # DishItOut
-2D card cooking game
 
 Hello, little chef!
 
