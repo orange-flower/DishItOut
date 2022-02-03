@@ -31,6 +31,6 @@ Happy cooking!
 
 
 # Mochi Studios Staffing:
-Developers - Jaclyn N. & Sheryl L.
-Artists - Arfa K. & Nelly
-Music & Sound - Shrey S. & Abdi 
+- Developers - Jaclyn N. & Sheryl L.
+- Artists - Arfa K. & Nelly
+- Music & Sound - Shrey S. & Abdi 
