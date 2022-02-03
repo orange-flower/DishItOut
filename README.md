@@ -1,16 +1,8 @@
 # DishItOut
 
-Hello, little chef!
+Dish It Out is a 2D cooking card game where players can competitively race against another checf to collect recipes all while enhancing their knowledge of different cuisines.
 
-There are many recipes and skills you have to learn before you can be a professional chef.
-
-Good thing you have me to guide you!
-
-Through this game I’ve set up for you, you’ll race against another chef to collect recipes and enhance your knowledge of different cuisines — scaling your way towards culinary mastery.
-
-Let’s get started!
-
-When it’s your turn, you will have three options: 
+On your turn, you have three options: 
 
 - Select 3 different ingredient cards
 - Select 1 ingredient card to get 2 of the same ingredient
@@ -23,7 +15,7 @@ Each recipe card is worth a certain number of points. Keep an eye out for this o
 
 These points are important — to win, you must reach a total of 10 points before your opponent does.
 
-Feeling good, little chef? 
+
 
 Happy cooking!
 
